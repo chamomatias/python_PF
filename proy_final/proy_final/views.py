@@ -24,7 +24,6 @@ def probando_template(request):
 
     # Abrimos el archivo html
     mi_html = open('./proy_final/plantillas/index.html')
-    # mi_html = open('./proy_final/plantillas/index.html')
 
 
     # Creamos el template haciendo uso de la clase Template
